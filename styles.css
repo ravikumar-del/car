@@ -1,0 +1,98 @@
+
+.road{
+    background-color: rgb(85, 84, 84);
+    height:700px;
+    width: 600px;
+    position: absolute;
+    margin-left: 100px;
+}
+.linemid{
+    height: 80px;
+    width: 10px;
+   background-color:whitesmoke;
+    position: absolute;
+    margin-left: 300px;
+}
+#button{
+    margin-left: 400px;
+    position: absolute;
+    margin-top: 700px;
+    height: 100px;
+width: 400px;
+font-size: 5rem;
+
+}
+.stop{
+    margin-top:700px;
+    margin-left: 0px;
+position:absolute;
+height: 100px;
+width: 400px;
+font-size: 5rem;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    
+}
+.herocar{
+    margin-top: 300px;
+    position:absolute;
+    
+}
+
+
+
+
+#obs{
+    height: 100px;
+    width:100px;
+   
+    position: absolute;
+}
+#obs1{
+    height: 100px;
+    width:100px;
+   
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 400px;
+
+}
+.villancar{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+.btn{
+    margin-left: 500px;
+    position: absolute;
+}
+
+
+
+.farmimg{
+    margin-left: 0px;
+   height: 700px;
+   width: 100px;
+    position: absolute;
+}
+.farming1{
+    margin-left: 700px;
+}
+.left{
+    margin-top: 500px;
+    position: absolute;
+    margin-left: 700px;
+    height: 100px;
+    width: 100px;
+}
+.right
+{
+    margin-top: 500px;
+    margin-left: 0px;
+    position: absolute;
+    height: 100px;
+    width: 100px;
+}
